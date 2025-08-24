@@ -75,16 +75,10 @@ Want to help?
 
 ---
 
-## 📄 License
-
-This project is Open Source under the MIT license.
-
----
-
 ## 🙏 Credits
 
 - Inspired by the original Flappy Bird game by Dong Nguyen.
-- Developed by [Your Name / Team].
+- Developed by [Atsushi / Alt Of Honor].
 
 ---
 
