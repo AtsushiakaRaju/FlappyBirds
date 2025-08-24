@@ -41,7 +41,7 @@ Welcome! This is an open-source, browser-based version of **Flappy Birds** built
 ## 📱 Play Now
 
 **Try it in your browser:**  
-[Click here for Flappy Birds on GitHub Pages](https://yourusername.github.io/your-repository-name/)
+[Click here for Flappy Birds on GitHub Pages]((https://atsushiakaraju.github.io/FlappyBirds/))
 
 **Note:** Best played on desktop/laptop computers right now.
 
