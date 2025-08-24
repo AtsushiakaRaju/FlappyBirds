@@ -1,4 +1,4 @@
-# Flappy Birds Production Ready
+# Flappy Birds 
 
 Welcome! This is an open-source, browser-based version of **Flappy Birds** built in Unity and hosted on GitHub Pages. The game is beginner-friendly and anyone can play—even if you're new to games!
 
